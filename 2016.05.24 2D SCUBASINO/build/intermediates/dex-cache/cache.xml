@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\University of Brighton Work\Year 2\2D Games\2016.05.24_2D_SCUBASINO-2016-05-25\2016.05.24 2D SCUBASINO\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="E:\University of Brighton Work\Year 2\2D Games\2016.05.24_2D_SCUBASINO-2016-05-25\2016.05.24 2D SCUBASINO\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-38aaf550e08ae47a5fcad14ac2e9314d255c3af8.jar" />
+    </item>
+    <item
+        jar="E:\University of Brighton Work\Year 2\2D Games\2016.05.24_2D_SCUBASINO-2016-05-25\2016.05.24 2D SCUBASINO\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="E:\University of Brighton Work\Year 2\2D Games\2016.05.24_2D_SCUBASINO-2016-05-25\2016.05.24 2D SCUBASINO\app\build\intermediates\pre-dexed\debug\classes-db4864abe5265b07faac268c4ff9e7d0613e0990.jar" />
+    </item>
+    <item
+        jar="E:\University of Brighton Work\Year 2\2D Games\2016.05.24_2D_SCUBASINO-2016-05-25\2016.05.24 2D SCUBASINO\app\build\intermediates\exploded-aar\2016.05.24 2D SCUBASINO\andEnginePhysicsBox2DExtension\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="e95f83b6022a032bde33bc1cd7729da49a40e44f">
+        <dex dex="E:\University of Brighton Work\Year 2\2D Games\2016.05.24_2D_SCUBASINO-2016-05-25\2016.05.24 2D SCUBASINO\app\build\intermediates\pre-dexed\debug\classes-9c1d5dac23750cd8afa6b1a700a92e3a8b1b9ed9.jar" />
+    </item>
+    <item
+        jar="E:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="E:\University of Brighton Work\Year 2\2D Games\2016.05.24_2D_SCUBASINO-2016-05-25\2016.05.24 2D SCUBASINO\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-d55f80d0f6fadb18d4b3683999a03819a08024f6.jar" />
+    </item>
+    <item
+        jar="E:\University of Brighton Work\Year 2\2D Games\2016.05.24_2D_SCUBASINO-2016-05-25\2016.05.24 2D SCUBASINO\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="E:\University of Brighton Work\Year 2\2D Games\2016.05.24_2D_SCUBASINO-2016-05-25\2016.05.24 2D SCUBASINO\app\build\intermediates\pre-dexed\debug\classes-173a0d99f3d6a77f0cc215b83866e5330edc8a39.jar" />
+    </item>
+    <item
+        jar="E:\University of Brighton Work\Year 2\2D Games\2016.05.24_2D_SCUBASINO-2016-05-25\2016.05.24 2D SCUBASINO\app\build\intermediates\exploded-aar\2016.05.24 2D SCUBASINO\andEngine\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="40ef9d82bd65b637daf6c2365a735fd4465290c9">
+        <dex dex="E:\University of Brighton Work\Year 2\2D Games\2016.05.24_2D_SCUBASINO-2016-05-25\2016.05.24 2D SCUBASINO\app\build\intermediates\pre-dexed\debug\classes-8de69daee5a3658f97d17588d4a8b20b8bcc6b6a.jar" />
+    </item>
+
+</items>
